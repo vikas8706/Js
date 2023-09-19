@@ -1,0 +1,14 @@
+"use strict"; //this will treat all JS code as newer version
+alert( 3 + 3) //node will give an error 
+
+let name ="vikas"
+let age = 24
+let boolean = false
+
+//string
+//number => 2 to power 54 
+//bigint 
+//boolean => true/false
+//null => stand alone value
+//undefined
+//symbol
